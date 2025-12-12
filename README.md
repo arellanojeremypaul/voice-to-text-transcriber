@@ -5,6 +5,8 @@
 A powerful C++ application that captures live audio (like Chrome Live Captions) and converts it to text in real time — ideal for accessibility, meeting notes, interviews, or AI-assisted conversations.  
 Translate speech instantly, save transcripts automatically, and connect with GPT-based tools for smart analysis.
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arellanojeremypaul.voice-to-text-transcriber" />
+
 # 👋 Hi, I'm Jeremy Arellano
 
 🚀 **AI/ML Engineer | Software Developer | .NET / C++ / Java Specialist**
